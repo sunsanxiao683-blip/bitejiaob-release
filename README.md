@@ -10,9 +10,9 @@
 
 | 平台 | 架构 | 文件 | 说明 |
 |---|---|---|---|
-| Windows | x86-64 | `注册工具-win-*.zip` | 解压后双击 `注册工具.exe` |
-| macOS | Apple Silicon (arm64) | `注册工具-macos-arm64-*.zip` | 解压后得到 `注册工具-macos-arm64.app` |
-| macOS | Intel (x86_64) | `注册工具-macos-intel-*.zip` | 解压后得到 `注册工具-macos-intel.app` |
+| Windows | x86-64 | `bitejiaob-win-*.zip` | 解压后双击 `注册工具.exe` |
+| macOS | Apple Silicon (arm64) | `bitejiaob-macos-arm64-*.zip` | 解压后得到 `注册工具-macos-arm64.app` |
+| macOS | Intel (x86_64) | `bitejiaob-macos-intel-*.zip` | 解压后得到 `注册工具-macos-intel.app` |
 
 ## 使用
 
